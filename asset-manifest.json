@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactTest-NelliSzabo/static/css/main.46df08ba.css",
+    "main.js": "/reactTest-NelliSzabo/static/js/main.499b4efb.js",
+    "static/media/brandlogo.svg": "/reactTest-NelliSzabo/static/media/brandlogo.d744ac57762637ce164fe1ff789d132b.svg",
+    "index.html": "/reactTest-NelliSzabo/index.html",
+    "main.46df08ba.css.map": "/reactTest-NelliSzabo/static/css/main.46df08ba.css.map",
+    "main.499b4efb.js.map": "/reactTest-NelliSzabo/static/js/main.499b4efb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46df08ba.css",
+    "static/js/main.499b4efb.js"
+  ]
+}
